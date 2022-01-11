@@ -1,1 +1,1 @@
-# ivoire-desygn
+# ivoire-design
